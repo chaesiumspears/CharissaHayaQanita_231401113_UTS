@@ -34,22 +34,3 @@ main(){
     }
 }
 
-/*#include <iostream> 
-using namespace std;
-main (){
-    int bil_bul,i,j,k;
-    cout<<"Masukkan bilangan bulat antara 2 dan 10 : ";
-    cin>>bil_bul;
-    if (bil_bul<2||bil_bul>10){
-        cout<<"Input tidak memenuhi batas";
-        exit(0);
-    }
-    else{
-        for (i=1;i<=bil_bul;i++){
-            for(j=1;j<=i;j++){
-            cout<<"x ";
-            }
-            cout<<endl;
-        }
-        
-}*/
